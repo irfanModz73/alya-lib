@@ -1,0 +1,20 @@
+{
+  "name": "alya",
+  "version": "1.0.0",
+  "description": "alya library tiktok stalker",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "tiktok",
+    "stalker",
+    "scraper",
+    "alya"
+  ],
+  "author": "irfan modz",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
